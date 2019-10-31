@@ -4,4 +4,4 @@ itsdangerous==1.1.0
 jieba==0.39
 Jinja2==2.10
 MarkupSafe==1.1.1
-Werkzeug==0.15.0
+Werkzeug==0.15.3
